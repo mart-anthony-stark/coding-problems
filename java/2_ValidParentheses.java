@@ -43,3 +43,6 @@ class 2_ValidParentheses {
         return stack.isEmpty();
     }
 }
+
+// Runtime: 1ms 
+// Memory: 40.55mb

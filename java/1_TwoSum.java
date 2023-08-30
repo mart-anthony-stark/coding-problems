@@ -37,3 +37,7 @@ class TwoSum {
         return new int[]{-1, -1};
     }
 }
+
+
+// Runtime: 2 ms
+// Memory: 43.7 MB
